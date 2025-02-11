@@ -1,4 +1,6 @@
-## Hi there! I'm Muhammad Rafi Aziz 
+## Hi there! I'm Muhammad Rafi Aziz
+
+![Backend Engineer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -7,14 +9,6 @@
 ```diff
 + Java Spring Boot Developer - Intermediate
 ```
-
-📞 **Contact:** +62 81229529312  
-🎯 **Goal:** Become a professional backend engineer.
-
----
-
-## 🎓 Education
-- **MA Nurus Sunnah**
 
 ---
 
@@ -52,12 +46,7 @@
 
 ---
 
-## 🔥 GitHub Stats & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafiaziz&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiaziz&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect!
+## 📫 Contact
+📞 **Phone:** +62 81229529312  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafiaziz) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiaziz)
