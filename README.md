@@ -24,7 +24,7 @@
 - Flutter
 
 ### 🗄️ Databases:
-- MySQL | MariaDB
+- MySQL | MariaDB | postgres
 
 ### 🌐 API Gateway:
 - Kong | NginX+
